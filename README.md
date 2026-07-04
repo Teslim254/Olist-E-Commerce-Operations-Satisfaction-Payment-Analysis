@@ -1,0 +1,2 @@
+# Olist-E-Commerce-Operations-Satisfaction-Payment-Analysis
+An end-to-end Power BI analysis of the Olist Brazilian E-Commerce dataset, covering ~99K orders across order fulfillment, customer satisfaction, product performance, and payment behavior. The project combines interactive dashboards with a written report to surface where the business is losing revenue and satisfaction and what to do about it.
